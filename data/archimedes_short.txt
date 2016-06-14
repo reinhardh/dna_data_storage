@@ -1,0 +1,690 @@
+
+6 INTRODUCTORY NOTE 
+
+upon them in a different hand and with no division into columns. 
+All the rest is tolerably legible with the aid of a magnifying glass. 
+Of the treatises of Archimedes which are found in other MSS., the 
+new MS. contains, in great part, the books On the Sphere and 
+Cylinder, almost the whole of the work On Spirals, and some parts 
+of th.Q Measurement of a Circle and of the books On the Equilibrium 
+of Planes. But the important fact is that it contains (1) a con- 
+siderable proportion of the work On Floating Bodies which was 
+formerly supposed to be lost so far as the Greek text is concerned 
+and only to have survived in the translation by Wilhelm von 
+Morbeke, and (2), most precious of all, the greater part of the 
+book called, according to its own heading, 'E^oSos and elsewhere, 
+alternatively, 'E(^d8iov or 'E^oSikoV, meaning Method. The portion 
+of this latter -work contained in the MS. has already been published 
+by Heiberg (1) in Greek* and (2) in a German translation with 
+commentary by Zeuthenf. The treatise was formerly only known 
+by an allusion to it in Suidas, who says that Theodosius wrote a 
+commentary upon it ; but the Metrica of Heron, newly discovered 
+by R. Schone and published in 1903, quotes three propositions from 
+itj, including the two main propositions enunciated by Archimedes 
+at the beginning as theorems novel in character which the method 
+furnished a means of investigating. Lastly the MS. contains two 
+short propositions, in addition to the preface, of a work called 
+Stomachion (as it might be "Neck-Spiel" or " Qual-Geist ") which 
+treated of a sort of Chinese puzzle known afterwards by the name 
+of " loculus Archimedius '' ; it thus turns out that this puzzle, which 
+Heiberg was formerly disinclined to attribute to Archimedes §, is 
+really genuine. 
+
+The Method, so happily recovered, is of the greatest interest for 
+the following reason. Nothing is more characteristic of the classical 
+works of the great geometers of Greece, or more tantalising, than 
+the absence of any indication of the steps by which they worked 
+their way to the discovery of their great theorems. As they have 
+come down to us, these theorems are finished masterpieces which 
+leave no traces of any rough-hewn stage, no hint of the method 
+by which they were evolved. We cannot but suppose that the 
+
+* Hermes xlii. 1907, pp. 243—297. 
+
+t Bibliotheca Mathematica VII3, 1906-7, pp. 321 — 863. 
+
+t Heronis Alexandrini opera, Vol. in. 1903, pp. 80, 17 ; 130, 15 ; 130, 25. 
+
+§ Yide The Works of Archimedes, p. xxii. 
+
+
+
+INTRODUCTORY NOTE 7 
+
+Greeks had some method or methods of analysis hardly less powerful 
+than those of modern analysis ; yet, in general, they seem to have 
+taken pains to clear away all traces of the machinery used and all 
+the litter, so to speak, resulting from tentative efforts, before they 
+permitted themselves to publish, in sequence carefully thought out, 
+and with definitive and rigorously scientific proofs, the results 
+obtained. A partial exception is now furnished by the Method; for 
+here we have a sort of lifting of the veil, a glimpse of the interior 
+of Archimedes' workshop as it werp. He tells us how he discovered 
+certain theorems in quadrature and cubature, and he is at the same 
+time careful to insist on the difference between (1) the means which 
+may be sufficient to suggest the truth of theorems, although not 
+furnishing scientific proofs of them, and (2) the rigorous demonstra- 
+tions of them by irrefragable geometrical methods which must follow 
+before they can be finally accepted as established ; to use Archi- 
+medes' own terms, the former enable theorems to be investigated 
+{Oewpeiv) but not to be proved (aVoSetxvuVat). The mechanical 
+method, then, used in our treatise and shown to be so useful for 
+the discovery of theorems is distinctly said to be incapable of 
+furnishing proofs of them ; and Archimedes promises to add, as 
+regards the two main theorems enunciated at the beginning, the 
+necessary supplement in the shape of the formal geometrical proof. 
+One of the two geometrical proofs is lost, but fragments of the other 
+are contained in the MS. which are sufficient to show that the 
+method was the orthodox method of exhaustion in the form in 
+which Archimedes applies it elsewhere, and to enable the proof to 
+be reconstructed. 
+
+The rest of this note will be best understood after the treatise 
+itself has been read ; but the essential features of the mechanical 
+method employed by Archimedes are these. Suppose X to be a 
+plane or solid figure, the area or content of which has to be found. 
+The method is to weigh infinitesimal elements of X (with or without 
+the addition of the corresponding elements of another figure C) 
+against the corresponding elements of a figure B, B and C being 
+such figures that their areas or volumes, and the position of the 
+centre of gravity of B, are known beforehand. For this purpose 
+the figures are first placed in such a position that they have, as 
+common diameter or axis, one and the same straight hne ; if then 
+the infinitesimal elements are sections of the figures made by parallel 
+planes perpendicular (in general) to the axis and cutting the figures, 
+
+
+
+8 INTRODUCTORY NOTE 
+
+the centres of gravity of all the elements lie at one point or other 
+on the common diameter or axis. This diameter or axis is produced 
+and is imagined to be the bar or lever of a balance. It is sufficient 
+to take the simple case where the elements of X alone are weighed 
+against the elements of another figure B. The elements which cor- 
+respond to one another are the sections of X and B respectively by 
+any one plane perpendicular (in general) to the diameter or axis 
+and cutting both figures; the elements are spoken of as straight 
+lines in the case of plane figurea and as plane areas in the case of 
+solid figures. Although Archimedes calls the elements straight lines 
+and plane areas respectively, they are of course, in the first case, 
+indefinitely narrow strips (areas) and, in the second case, indefinitely 
+thin plane laminae (solids) ; but the breadth or thickness {dx, as 
+we might call it) does not enter into the calculation because it is 
+regarded as the same in each of the two corresponding elements 
+which are separately weighed against each other, and therefore 
+divides out. The number of the elements in each figure is in- 
+finite, but Archimedes has no need to say this ; he merely says 
+that X and B are made up of all the elements in them respectively, 
+i.e. of the straight lines in the case of areas and of the plane areas 
+in the case of solids. 
+
+The object of Archimedes is so to arrange the balancing of the 
+elements that the elements of X are all applied at one point of 
+the lever, while the elements of B operate at difierent points, 
+namely where they actually are in the first instance. He con- 
+trives therefore to move the elements of X away from their first 
+position and to concentrate them at one point on the lever, while 
+the elements of B are left where they are, and so operate at their 
+respective centres of gravity. Since the centre of gravity of B as 
+a whole is known, as well as its area or volume, it may then be 
+supposed to act as one mass applied at its centre of gravity ; and 
+consequently, taking the whole bodies X and B as ultimately placed 
+respectively, we know the distances of the two centres of gravity 
+from the fulcrum or point of suspension of the lever, and also the 
+area or volume of B. Hence the area or volume of X is found. 
+The method may be applied, conversely, to the problem of finding 
+the centre of gravity of X when its area or volume is known before- 
+hand ; in this case it is necessary that the elements of X, and 
+therefore X itself, should be weighed in the places where they are, 
+and that the figures the elements of which are moved to one single 
+
+
+
+INTRODUCTORY NOTE 9 
+
+point of the lever, to be weighed there, should be other figures and 
+not X. 
+
+The method will be seen to be, not integration, as certain 
+geometrical proofs in the great treatises actually are, but a clever 
+device for avoiding the particular integration which would naturally 
+be used to find directly the area or volume required, and making 
+the solution depend, instead, upon another integration the result of 
+which is already known. Archimedes deals with moments about 
+the point of suspension of the lever, i.e. the products of the ele- 
+ments of area or Volume into the distances between the point of 
+suspension of the lever and the centres of gravity of the elements 
+respectively ; and, as we said above, while these distances are 
+different for all the elements of B, he contrives, by moving the 
+elements of X, to make them the same for all the elements of X 
+in their final position. He assumes, as known, the fact that the 
+sum of the moments of each particle of the figure B acting at 
+the point where it is placed is equal to the moment of the whole 
+figure applied as one mass at one point, its centre of gravity. 
+
+Suppose now that the element of X is it . dx, u being the length 
+or area of a section of X by one of a whole series of parallel planes 
+cutting the lever at right angles, x being measured along the lever 
+(which is the common axis of the two figures) from the point of 
+suspension of the lever as origin. This element is then supposed 
+to be placed on the lever at a constant distance, say a, from the 
+origin and on the opposite side of it from B. If v! . dx is the cor- 
+responding element of B cut off by the same plane and x its distance 
+from the origin, Archimedes' argument establishes the equation 
+
+rk rk 
+
+a I udx = I xu'dx. 
+Jh Jh 
+
+Now the second integral is known because the area or volume of 
+the figure B (say a triangle, a pyramid, a prism, a sphere, a cone, 
+or a cylinder) is known, and it can be supposed to be applied as 
+one mass at its centre of gravity, which is also known ; the integral 
+is equal to bU, where b is the distance of the centre of grayity from 
+the point of suspension of the lever, and U is the area or content 
+of B. Hence 
+
+the area or volume of X = — . 
+
+a 
+
+In the case where the elements of X are weighed along with the 
+corresponding elements of another figure C against corresponding 
+
+
+
+10 INTRODUCTOEY NOTE 
+
+elements of B, we have, if v be the element of G, and V its area 
+or content, 
+
+udx + a I vdx= I xu'dx 
+h Jh Jh 
+
+and (area or volume oi X + V)a = hU. 
+
+In the particular problems dealt with in the treatise h is always 
+= 0, and h is often, but not always, equal to a. 
+
+Our admiration of the genius of the greatest mathematician of 
+antiquity must surely be increased, if that were possible, by a 
+perusal of the work before us. Mathematicians will doubtless 
+agree that it is astounding that Archimedes, writing (say) about 
+250 B.C., should have been able to solve such problems as those of 
+finding the volume and the centre of gravity of any segment of a 
+sphere, and the centre of gravity of a semicircle, by a method so 
+simple, a method too (be it observed) which would be quite rigorous 
+enough for us to-day, although it did not satisfy Archimedes himself. 
+
+Apart from the mathematical content of the book, it is in- 
+teresting, not only for Archimedes' explanations of the course which 
+his investigations took, but also for the allusion to Democritus as 
+the discoverer of the theorem that the volumes of a pyramid and 
+a cone are one-third of the volumes of a prism and a cylinder 
+respectively which have the same base and equal height. These 
+propositions had always been supposed to be due to Eudoxus, and 
+indeed Archimedes himself has a statement to this eflFect*. It 
+now appears that, though Eudoxus was the first to prove them 
+scientifically, Democritus was the first to assert their truth. I have 
+elsewhere t made a suggestion as to the probable course of Democritus' 
+argument, which, on Archimedes' view, did not amount to a proof 
+of the propositions ; but it may be well to re-state it here. Plutarch, 
+in a well-known passage J, speaks of Democritus as having raised the 
+following question in natural philosophy (<^i;o-ik(us) : " if a cone were 
+cut by a plane parallel to the base [by which is clearly meant a 
+plane indefinitely near to the base], what must we think of the 
+surfaces of the sections ? Are they equal or unequal ? For, if they 
+are unequal, they will make the cone irregular, as having many 
+indentations, like steps, and unevennesses ; but, if they are equal, 
+the sections will be equal, and the cone will appear to have the 
+property of the cylinder and to be made up of equal, not unequal, 
+
+* On the Sphere and Cylinder, Preface to Book i. 
+
+t The Thirteen Books of Euclid's Elements, Vol. in. p. 368. 
+
+J Plutarch, Be Comm. Not. adv. Stoicos xxxix. 3. 
+
+
+
+INTRODQCTOEY NOTE 11 
+
+circles, which is very absurd," The phrase "made up of equal... 
+circles" (e^ tcrwv (rvyKeifievo<s...KVK\(i>v) shows that Democritus already 
+had the idea of a solid being the sum of an infinite number of 
+parallel planes, or indefinitely thin laminae, indefinitely near to- 
+gether : a most important anticipation of the same thought which 
+led to such fruitful results in Archimedes. If then we may make 
+a conjecture as to Democritus' argument with regard to a pyramid, 
+it seems probable that he would notice that, if two pyramids of the 
+same height and with equal triangular bases are respectively cut by 
+planes parallel to the base and dividing the heights in the same 
+ratio, the corresponding sections of the two pyramids are equal, 
+whence he would infer that the pyramids are equal because they 
+are the sums of the same infinite numbers of equal plane sections 
+or indefinitely thin laminae. (This would be a particular anti- 
+cipation of Cavalieri's proposition that the areal or solid contents 
+of two figures are equal if two sections of them taken at the same 
+height, whatever the height may be, always give equal straight lines 
+or equal surfaces respectively.) And Democritus would of course 
+see that the three pyramids into which a prism on the same base 
+and of equal height with the original pyramid is divided (as in 
+Eucl. XII. 7) satisfy, in pairs, this test of equality, so that the 
+pyramid would be one third part of the prism. The extension to 
+a pyramid with a polygonal base would be easy. And Democritus 
+may have stated the proposition for the cone (of course without an 
+absolute proof) as a natural inference from the result of increasing 
+indefinitely the number of sides in a regular polygon forming the 
+base of a pyramid. 
+
+In accordance with the plan adopted in The Works of Archimedes, 
+I have marked by inverted commas the passages which, on account 
+of their importance, historically or otherwise, I have translated 
+literally from the Greek ; the rest of the tract is reproduced in 
+modern notation and phraseology. Words and sentences in square 
+brackets represent for the most part Heiberg's conjectural restoration 
+(in his German translation) of what may be supposed to have been 
+written in the places where the MS. is illegible; in a few cases 
+where the gap is considerable a note in brackets indicates what the 
+missing passage presumably contained and, so far as necessary, how 
+the deficiency may be made good. 
+
+T. L. H. 
+
+7 June 1912. 
+
+
+
+THE METHOD OF AECHIMEDES TREATING 
+
+OF MECHANICAL PROBLEMS— 
+
+TO ERATOSTHENES 
+
+"Archimedes to Eratosthenes greeting. 
+
+I sent you on a former occasion some of the theorems 
+discovered by me, merely writing out the enunciations and 
+inviting you to discover the proofs, which at the moment 
+I did not give. The enunciations of the theorems which I 
+sent were as follows. 
+
+1. If in a right prism with a parallelogrammic base a 
+cylinder be inscribed which has its bases in the opposite 
+parallelograms*, and its sides [i.e. four generators] on the 
+remaining planes (faces) of the prism, and if through the 
+centre of the circle which is the base of the cylinder and 
+(through) one side of the square in the plane opposite to 
+it a plane be drawn, the plane so drawn will cut off from 
+the cylinder a segment which is bounded by two planes 
+and the surface of the cylinder, one of the two planes being 
+the plane which has been drawn and the other the plane 
+in which the base of the cylinder is, and the surface being 
+that which is between the said planes ; and the segment cut 
+off from the cylinder is one sixth part of the whole prism. 
+
+2. If in a cube a cylinder be inscribed which has its 
+bases in the opposite parallelograms •{■ and touches with its 
+surface the remaining four planes (faces), and if there also 
+be inscribed in the same cube another cylinder which has 
+its bases in other parallelograms and touches with its surface 
+the remaining four planes (faces), then the figure bounded 
+by the surfaces of the cylinders, which is within both cylinders, 
+is two-thirds of the whole cube. 
+
+Now these theorems differ in character from those commu- 
+nicated before ; for we compared the figures then in question, 
+
+* The parallelograms are apparently squares. t i.e. squares. 
+
+
+
+THE METHOD 13 
+
+conoids and spheroids and segments of them, in respect of size, 
+with figures of cones and cylinders : but none of those figures 
+have yet been found to be equal to a solid figure bounded by 
+planes; whereas each of the present figures bounded by two 
+planes and surfaces of cylinders is found to be equal to one of 
+the solid figures which are bounded by planes. The proofs then 
+of these theorems I have written in this book and now send 
+to you. Seeing moreover in you, as I say, an earnest student, 
+a man of considerable eminence in philosophy, and an admirer 
+[of mathematical inquiry], I thought fit to write out for you 
+and explain in detail in the same book the peculiarity of a 
+certain method, by which it will be possible for you to get 
+a start to enable you to investigate some of the problems in 
+mathematics by means of mechanics. This procedure is, I am 
+persuaded, no less useful even for the proof of the theorems 
+themselves ; for certain things first became clear to me by a 
+mechanical method, although they had to be demonstrated by 
+geometry afterwards because their investigation by the said 
+method did not furnish an actual demonstration. But it is of 
+course easier, when we have previously acquired, by the method, 
+some knowledge of the questions, to supply the proof than 
+it is to find it without any previous knowledge. This is a 
+reason why, in the case of the theorems the proof of which 
+Eudoxus was the first to discover, namely that the cone is 
+a third part of the cylinder, and the pyramid of the prism, 
+having the same base and equal height, we should give no 
+small share of the credit to Democritus who was the first 
+to make the assertion with regard to the said figure* though 
+he did not prove it. I am myself in the position of having 
+first made the discovery of the theorem now to be published 
+[by the method indicated], and I deem it necessary to expound 
+the method partly because I have already spoken of itf and 
+I do not want to be thought to have uttered vain words, but 
+
+♦ vepl ToO elfnin^vou ax-flliaros, in the singular. Possibly Archimedes may 
+have thought of the case of the pyramid as being the more fundamental and as 
+really involving that of the cone. Or perhaps "figure" may be intended for 
+" type of figure." 
+
++ Of. Preface to Quadrature of Parabola. 
+
+
+
+14 ARCHIMEDES 
+
+equally because I am persuaded that it will be of no little 
+service to mathematics; for I apprehend that some, either of 
+my contemporaries or of my successors, will, by means of the 
+method when once established, be able to discover other 
+theorems in addition, which have not yet occurred to me. 
+
+First then I will set out the very first theorem which 
+became known to me by means of mechanics, namely that 
+
+Any segment of a section of a right-angled cone {i.e. a parabola) 
+is four-thirds of the triangle which has the same base and equal 
+height, 
+
+and after this I will give each of the other theorems investi- 
+gated by the same method. Then, at the end of the book, 
+I will give the geometrical [proofs of the propositions]... 
+
+[I premise the following propositions which I shall use 
+in the course of the work.] 
+
+1. If from [one magnitude another magnitude be sub- 
+tracted which has not the same centre of gravity, the centre 
+of gravity of the remainder is found by] producing [the 
+straight line joining the centres of gravity of the whole 
+magnitude and of the subtracted part in the direction of 
+the centre of gravity of the whole] and cutting off fi-om it 
+a length which has to the distance between the said centres 
+of gra\'ity the ratio which the weight of the subtracted 
+magnitude has to the weight of the remainder. 
+
+[On the Equilibrium of Planes, I. 8] 
+
+2. If the centres of gravity of any number of magnitudes 
+whatever be on the same straight line, the centre of gravity 
+of the magnitude made up of all of them will be on the same 
+straight line. [Cf Ibid. i. 5] 
+
+3. The centre of gravity of any straight line is the point 
+of bisection of the straight line. [Cf Ibid. i. 4] 
+
+4. The centre of gravity of any triangle is the point in 
+which the straight lines drawn from the angular points of 
+the triangle to the middle points of the (opposite) sides cut 
+one another. [Ihid. i. 13, 14] 
+
+5. The centre of gravity of any parallelogram is the point 
+in which the diagonals meet. [Ihid. i. 10] 
+
+
+
+THE METHOD 15 
+
+6. The centre of gravity of a circle is the point which is 
+also the centre [of the circle]. 
+
+7. The centre of gravity of any cylinder is the point of 
+bisection of the axis. 
+
+8. The centre of gravity of any cone is [the point which 
+divides its axis so that] the portion [adjacent to the vertex is] 
+triple [of the portion adjacent to the base]. 
+
+[All these propositions have already been] proved*. [Besides 
+these I require also the following proposition, which is easily 
+proved : 
+
+If in two series of magnitudes those of the first series are, 
+in order, proportional to those of the second series and further] 
+the magnitudes [of the first series], either all or some of them, 
+are in any ratio whatever [to those of a third series], and if the 
+magnitudes of the second series are in the same ratio to the 
+corresponding magnitudes [of a fourth series], then the sum 
+of the magnitudes of the first series has to the sum of the 
+selected magnitudes of the third series the same ratio which 
+the sum of the magnitudes of the second series has to the 
+sum of the (correspondingly) selected magnitudes of the fourth 
+series. [On Conoids and Spheroids, Prop. 1.]" 
+
+
+
+Proposition 1 . 
+
+Let ABG be a segment of a parabola bounded by the 
+straight line AC and the parabola ABC, and let D be the 
+middle point of AC. Draw the straight line BBE parallel 
+to the axis of the parabola and join AB, BC. 
+
+Then shall the segment ABC be | of the triangle ABC. 
+
+From A draw AKF parallel to BE, and let the tangent 
+to the parabola at C meet BBE in E and AKF in F. Produce 
+CB to meet AF in K, and again produce GK to H, making 
+KH equal to CK. 
+
+* The problem of finding the centre of gravity of a cone is not solved in 
+any extant work of Archimedes. It may ha.ye been solved either in a separate 
+treatise, such as the irepl ivywv, which is lost, or perhaps in a larger mechanical 
+work of which the extant books On the Equilibrium of Planes formed only a part. 
+
+
+
+16 
+
+
+
+ARCHIMEDES 
+
+
+
+Consider GH as the bar of a balance, K being its middle 
+point. 
+
+Let MO be any straight line parallel to ED, and let it meet 
+OF, GK, AG in M,N,0 and the curve in P. 
+
+Now, since GE is a tangent to the parabola and GD the 
+semi-ordinate, 
+
+EB = BD; 
+" for this is proved in the Elements [of Conies]*." 
+Since FA, MO are parallel to EB, it follows that 
+
+FK^KA, MN=NO. 
+Now, by the property of the parabola, " proved in a lemma," 
+MO:OP=GA:AO [Cf Quadrature of Parahola, Prop. 5] 
+= GK : KN [Eucl. VI. 2] 
+
+= HK:KN. 
+
+
+
+
+Take a straight line TG equal to OP, and place it with its 
+centre of gravity at H, so that TH = HO ; then, since N is the 
+centre of gravity of the straight line MO, 
+
+and MO:TQ = HK: KN, 
+
+* i.e. the works on conies by Ariataeus and Euclid. Cf. the similar 
+expression in On Conoids and Spheroids, Prop. 3, and Qiiadrature of Parabola, 
+Prop. 3. 
+
+
+
+THE METHOD 17 
+
+it follows that TG at H and MO at N will be in equilibrium 
+about K. [On the Equilibrium of Planes, i. 6, 7] 
+
+Similarly, for all other straight lines parallel to DE and 
+meeting the arc of the parabola, (1) the portion intercepted 
+between FC, AC with its middle point on KG and (2) a 
+length equal to the intercept between the curve and AG 
+placed with its centre of gravity at H will be in equilibrium 
+about K. 
+
+Therefore K is the centre of gravity of the whole system 
+consisting (1) of all the straight lines as MO intercepted between 
+FG, AG and placed as they actually are in the figure and (2) of 
+all the straight lines placed at H equal to the straight lines 
+as PO intercepted between the curve and AG. 
+
+And, since the triangle GFA is made up of all the parallel 
+lines like MO, 
+
+and the segment GBA is made up of all the straight lines like 
+PO within the curve, 
+
+it follows that the triangle, placed where it is in the figure, is 
+in equilibrium about K with the segment GBA placed with its 
+centre of gravity at H. 
+
+Divide KG at W so that GK=SKW; 
+
+then W is the centre of gravity of the triangle A GF ; " for this 
+is proved in the books on equilibrium " {ev toi<; laoppoinKoi';). 
+[Cf On the Equilibrium of Planes i. 15] 
+
+Therefore AACF: (segment ABC) = HK : KW 
+
+= 3:1. 
+
+Therefore segment ABG=^AAGF. 
+
+But AAGF=4>AABG. 
+
+Therefore segment ABG = ^AABG. 
+
+"Now the fact here stated is not actually demonstrated 
+by the argument used; but that argument has given a sort 
+of indication that the conclusion is true. Seeing then that 
+the theorem is not demonstrated, but at the same time 
+
+H. A. 2 
+
+
+
+18 aechimp:des 
+
+busjjecting that the conclusion is true, we shall have recourse 
+to the geometrical demortstration which I myself discovered 
+and have already published*." 
+
+
+
+Proposition 2. 
+
+We can investigate by the same method the propositions that 
+
+(1) Any sphere is {in respect of solid content) four times 
+the cone with hose equal to a great circle of the sphere and 
+height equal to its radius; and 
+
+(2) the cylinder with base equal to a great circle of the 
+sphere and height equal to the diameter is 1^ times the sphere. 
+
+(1) Let ABCD be a great circle of a sphere, and AG, BD 
+diameters at right angles to one another. 
+
+Let a circle be drawn about BB as diameter and in a plane 
+perpendicular to AG, and on this circle as base let a cone 
+be described with A as vertex. Let the surface of this cone 
+be produced and then cut by a plane through G parallel to 
+its base ; the section will be a circle on EF as diameter. On 
+this circle as base let a cylinder be erected with height and 
+axis AG, and produce GA to U, making AH equal to GA. 
+
+Let CH be regarded as the bar of a balance, A being its 
+middle point. 
+
+Draw any straight line MN in the plane of the circle 
+ABGD and parallel to BD. Let MN meet the circle in 0, P, 
+the diameter AG in S, and the straight lines AJE, AF in Q, E 
+respectively. Join AO. 
+
+* The word governing tV yeaiierpoviiirriv dirdSei^ii' in the Greek text is 
+rd^ofiev, a reading which seems to be doubtful and is certainly difficult to 
+translate. Heiberg translates as if Td^o/iev meant "we shall give lower down" 
+or "later on," but I agree with Th. Beinach {Revite gengrale des sciences puree 
+et appliquges, 30 November 1907, p. 918) that it is questionable whether 
+Archimedes would really have written out in full once more, as an appendix, 
+a proof which, as he says, had already been published (i.e. presumably in the 
+Quadrature of a Parabola). Td^o/iev, if correct, should apparently mean "we 
+shall appoint,'' "prescribe" or "assign." 
+
+
+
+THE METHOD 
+
+
+
+19 
+
+
+
+Through MN draw a plane at right angles to AC; 
+this plane will cut the cylinder in a circle with diameter MN, 
+the sphere in a circle with diameter OP, and the cone in a 
+circle with diameter QB. 
+
+Now, since MS = AG, and QS = AS, 
+MS.SQ = CA.AS 
+= A0' 
+= OS' + SQ'- 
+
+
+
+L V 
+
+
+H 
+
+A X G 
+
+
+M 
+
+
+
+
+^ 
+
+
+\x 
+
+
+
+
+B 
+
+
+/O/Q 
+
+
+S R\P\ 
+
+
+D 
+
+
